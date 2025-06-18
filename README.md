@@ -26,14 +26,15 @@ O Desenvolve é uma iniciativa incrível e **100% gratuita** do Grupo Boticário
 - **Mentorias:** Individuais com profissionais do Grupo Boticário
 
 
-## 📝 Como Usar Este Repositório
+## 🎯 Objetivos do Projeto
 
-As pastas serão organizadas por semanas, e dentro de cada semana, se necessário, vai ter subpastas com os conteúdos do dia.
-Dentro das pastas vão ter:
-- **Códigos** desenvolvidos durante as aulas
-- **Anotações** importantes
-- **Projetos práticos** realizados
-- **Exercícios** e desafios
+Este repositório serve como um **diário de aprendizado** e **portfólio em construção** durante minha jornada no Programa Desenvolve. Aqui você encontrará:
+
+- 📖 **Documentação completa** de cada aula e conceito aprendido
+- 💻 **Códigos funcionais** desenvolvidos durante os exercícios práticos
+- 🎨 **Projetos reais** criados para aplicar os conhecimentos
+- 📝 **Anotações valiosas** sobre boas práticas e dicas dos mentores
+- 🚀 **Evolução constante** do meu desenvolvimento como programador
 
 ## 🔗 Links Úteis
 
