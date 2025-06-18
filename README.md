@@ -1,11 +1,5 @@
 ![Banner do Programa Desenvolve](banner.jpg)
 
-## 👨‍💻 Sobre Mim
-
-Se quiser saber mais sobre mim e minha trajetória profissional, acesse meu site: **[Portfólio Felipe Santos](https://webcvfelipe.vercel.app/home)**
-
----
-
 ## 📚 Sobre o Projeto
 
 Olá! 👋 Este repositório contém todas as minhas anotações, códigos e aprendizados durante o **Programa Desenvolve** do Grupo Boticário! 
