@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: radial-gradient(circle at 50% 30%, #DEDEDC 0%, #DEDEDC 40%, #959E89 70%, #BD8650 100%);
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    min-height: 100vh;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    width: 100%;
+    padding: 20px;
+
+}
+
+.logo{
+    font-size: 28px;
+    font-weight: 500;
+    color: #ebcf32;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.logo span{
+    color: #cf8b3d;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 25px;
+    list-style: none;
+    font-size: 18px;
+    font-weight: 500;
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.menu li:hover{
+    border-bottom: 2px solid #dabe21;
+}
+
+.user{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    border: 2px solid #dabe2100;
+}
+
+.user:hover{
+    border: 2px solid #dabe21;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    max-width: 1200px;
+    width: 100%;
+    margin: 80px 0;
+}
+
+.header-esquerda{
+    width: 1100px;
+}
+
+.header-esquerda h1{
+    font-size: 55px;
+    font-weight: 400;
+    color: #000;
+    letter-spacing: 0.5px;
+}
+
+.header-esquerda p{
+    font-size: 26px;
+    font-weight: 400;
+    color: #0000009a;
+    line-height: 1.5;
+    width: 70%;
+}
+
+.header-botoes{
+    display: flex;
+    gap: 30px;
+    margin-top: 50px;
+}
+
+.button-1{
+    padding: 10px 35px;
+    border-radius: 20px;
+    border: 0;
+    background-color: #cf8b3d;
+    color: #fff;
+    font-weight: 600;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.button-2{
+    padding: 10px 35px;
+    border-radius: 20px;
+    border: 0;
+    background-color: #CACAC0;
+    color: #fff;
+    font-weight: 600;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.header-direita{
+    width: 100%;
+}
+
+.prato-1{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
